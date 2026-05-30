@@ -1,0 +1,10 @@
+{
+  "name": "kisaragi",
+  "version": "1.0.0",
+  "description": "AI coding agent CLI",
+  "bin": {
+    "kisaragi": "./src/cli.js"
+  },
+  "type": "module",
+  "dependencies": {}
+}

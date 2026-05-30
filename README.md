@@ -1,2 +1,1 @@
-# kisaragi
-Coding AI Agent
+# Kisaragi
